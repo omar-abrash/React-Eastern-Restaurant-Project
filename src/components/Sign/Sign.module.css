@@ -1,0 +1,55 @@
+.control-form {
+}
+.control-form > div {
+  text-align: center;
+}
+.control-form form div {
+  width: 300px;
+  margin-bottom: 20px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.control-form form input {
+  width: 100%;
+  height: 30px;
+}
+.control-form form button {
+  width: 100px;
+  height: 50px;
+  background-color: plum;
+  border: none;
+  border-radius: 10px;
+  margin-top: 20px;
+  margin-left: 10px;
+  font-size: 1.2rem;
+  cursor: pointer;
+  box-shadow: 3px 3px 3px silver;
+}
+.control-form form button:active {
+  color: white;
+  background-color: blueviolet;
+}
+
+.input-invalid {
+  border: none;
+  border-bottom: 1px solid red;
+  border-radius: 5px;
+}
+
+.invalid {
+  font-size: 0.7rem;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  color: red;
+  font-weight: bold;
+  margin-top: -20px;
+}
+.invalid-equal {
+  font-size: 0.7rem;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  color: red;
+  font-weight: bold;
+}

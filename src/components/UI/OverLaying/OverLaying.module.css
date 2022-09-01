@@ -1,0 +1,45 @@
+.layer {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  z-index: 100;
+  background-color: rgba(149, 149, 137, 0.757);
+}
+.over-layer {
+  position: absolute;
+  left: calc(50% - 250px);
+  top: 100px;
+  width: 500px;
+  height: 750px;
+  z-index: 101;
+  background-color: rgb(140, 223, 24);
+  animation: open 1s ease-out;
+}
+/* // Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) {
+  .over-layer {
+    width: 300px;
+    left: calc(50% - 150px);
+  }
+}
+
+@keyframes open {
+  0% {
+    opacity: 0.3;
+    transform: translateY(-100%);
+  }
+  20% {
+    opacity: 0.5;
+    transform: translateY(40px);
+  }
+  50% {
+    opacity: 0.7;
+    transform: translateY(-20px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
