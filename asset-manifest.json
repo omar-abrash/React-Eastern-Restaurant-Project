@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/React-Eastern-Restaurant-Project/static/css/main.95af832a.chunk.css",
+    "main.js": "/React-Eastern-Restaurant-Project/static/js/main.d4b21bcb.chunk.js",
+    "main.js.map": "/React-Eastern-Restaurant-Project/static/js/main.d4b21bcb.chunk.js.map",
+    "runtime-main.js": "/React-Eastern-Restaurant-Project/static/js/runtime-main.d178cc2a.js",
+    "runtime-main.js.map": "/React-Eastern-Restaurant-Project/static/js/runtime-main.d178cc2a.js.map",
+    "static/js/2.82ebaf9f.chunk.js": "/React-Eastern-Restaurant-Project/static/js/2.82ebaf9f.chunk.js",
+    "static/js/2.82ebaf9f.chunk.js.map": "/React-Eastern-Restaurant-Project/static/js/2.82ebaf9f.chunk.js.map",
+    "index.html": "/React-Eastern-Restaurant-Project/index.html",
+    "static/css/main.95af832a.chunk.css.map": "/React-Eastern-Restaurant-Project/static/css/main.95af832a.chunk.css.map",
+    "static/js/2.82ebaf9f.chunk.js.LICENSE.txt": "/React-Eastern-Restaurant-Project/static/js/2.82ebaf9f.chunk.js.LICENSE.txt",
+    "static/media/landing1.fcb479c6.webp": "/React-Eastern-Restaurant-Project/static/media/landing1.fcb479c6.webp",
+    "static/media/landing2.12957fb9.jpg": "/React-Eastern-Restaurant-Project/static/media/landing2.12957fb9.jpg",
+    "static/media/landing3.e95b8730.jpg": "/React-Eastern-Restaurant-Project/static/media/landing3.e95b8730.jpg",
+    "static/media/landing4.5a9ab149.jpg": "/React-Eastern-Restaurant-Project/static/media/landing4.5a9ab149.jpg",
+    "static/media/search.1b33b252.jpg": "/React-Eastern-Restaurant-Project/static/media/search.1b33b252.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d178cc2a.js",
+    "static/js/2.82ebaf9f.chunk.js",
+    "static/css/main.95af832a.chunk.css",
+    "static/js/main.d4b21bcb.chunk.js"
+  ]
+}
